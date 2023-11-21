@@ -64,7 +64,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Walkthrough Video
 
-[Click here]()
+[Click here](https://drive.google.com/file/d/1Y3yKZ8JN94OyXOdmt4nxWv3-pZ3AKpJV/view)
 
 ## Credits
 
